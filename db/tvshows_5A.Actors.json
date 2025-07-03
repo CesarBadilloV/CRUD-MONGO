@@ -1,0 +1,1653 @@
+[{
+  "_id": {
+    "$oid": "683f2f9e34032c92118859de"
+  },
+  "name": "Drake Bell",
+  "dod": "1986-06-27",
+  "roles": [
+    {
+      "series": "Drake & Josh",
+      "character": "Drake Parker",
+      "year": "2004-2007"
+    },
+    {
+      "series": "Ultimate Spiderman",
+      "character": "Peter Parker",
+      "alias": "Spider-man",
+      "year": "2012-2017"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f38bf34032c92118859e8"
+  },
+  "name": "Diego Luna",
+  "dod": "1979-12-29",
+  "roles": [
+    {
+      "series": "Andor",
+      "character": "Cassian Andor",
+      "year": "20022-2025"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f395534032c92118859e9"
+  },
+  "name": "Ewan McGregor",
+  "dod": "1971-03-31",
+  "roles": [
+    {
+      "series": "Obi-wan Kenobi",
+      "character": "Obi-wan Kenobi",
+      "alias": "Ben Kenobi",
+      "year": "2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f3a7d34032c92118859ea"
+  },
+  "name": "Hayden Christensen",
+  "dod": "1981-04-19",
+  "roles": [
+    {
+      "series": "Obi-wan Kenobi",
+      "character": "Anakin Skywalker",
+      "alias": "Darth Vader",
+      "year": "2022"
+    },
+    {
+      "series": "Ahsoka",
+      "character": "Anakin Skywalker",
+      "alias": "Darth Vader",
+      "year": "2023"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f3b1934032c92118859eb"
+  },
+  "name": "John Krasinski",
+  "dod": "1979-10-20",
+  "roles": [
+    {
+      "series": "The Office",
+      "character": "Jim Halpert",
+      "year": "2005–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f3c4534032c92118859ec"
+  },
+  "name": "Millie Bobby Brown",
+  "dod": "2004-02-19",
+  "roles": [
+    {
+      "series": "Stranger Things",
+      "character": "Eleven",
+      "year": "2016-present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f3d2134032c92118859ed"
+  },
+  "name": "Pedro Pascal",
+  "dod": "1975-04-02",
+  "roles": [
+    {
+      "series": "The Mandalorian",
+      "character": "Din Djarin",
+      "alias": "Mando",
+      "year": "2019-present"
+    },
+    {
+      "series": "The Last of Us",
+      "character": "Joel Miller",
+      "year": "2023-present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f3ef834032c92118859ef"
+  },
+  "name": "Henry Cavill",
+  "dod": "1983-05-05",
+  "roles": [
+    {
+      "series": "The Witcher",
+      "character": "Geralt of Rivia",
+      "year": "2019-2023"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f3fda34032c92118859f0"
+  },
+  "name": "Sophia Lillis",
+  "dod": "2002-02-13",
+  "roles": [
+    {
+      "series": "Dungeons & Dragons: Honor Among Thieves",
+      "character": "Doric",
+      "year": "2023"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f41b234032c92118859f2"
+  },
+  "name": "Anya Taylor-Joy",
+  "dod": "1996-04-16",
+  "roles": [
+    {
+      "series": "The Queen's Gambit",
+      "character": "Beth Harmon",
+      "year": "2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f429f34032c92118859f3"
+  },
+  "name": "Tom Hiddleston",
+  "dod": "1981-02-09",
+  "roles": [
+    {
+      "series": "Loki",
+      "character": "Loki",
+      "year": "2021-present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f438d34032c92118859f4"
+  },
+  "name": "Elizabeth Olsen",
+  "dod": "1989-02-16",
+  "roles": [
+    {
+      "series": "WandaVision",
+      "character": "Wanda Maximoff",
+      "alias": "Scarlet Witch",
+      "year": "2021"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f447b34032c92118859f5"
+  },
+  "name": "Kit Harington",
+  "dod": "1986-12-26",
+  "roles": [
+    {
+      "series": "Game of Thrones",
+      "character": "Jon Snow",
+      "year": "2011-2019"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68404234779712b25cf8660a"
+  },
+  "name": "Aoi Yûki",
+  "dod": "1992-03-27",
+  "roles": [
+    {
+      "series": "Kusuriya no Hitorigoto",
+      "character": "Xiao Mao",
+      "alias": "Maomao",
+      "year": "2023-2025"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684043b3779712b25cf8660d"
+  },
+  "name": "Yoshino Aoyama",
+  "dod": "1996-05-15",
+  "roles": [
+    {
+      "series": "Bocchi The Rock!",
+      "character": "Hitori Goto",
+      "alias": [
+        "Hitori Bocchi",
+        "Bocchi",
+        "Guitar Hero",
+        "The Tsuchinoko of Kimoshitazawa"
+      ],
+      "year": "2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f42292a0caad07611f12c"
+  },
+  "name": "Mayumi Tanaka",
+  "dob": "1955-01-15T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "One Piece",
+      "character": "Monkey D. Luffy",
+      "years": "1999–presente"
+    },
+    {
+      "series": "Dragon Ball",
+      "character": "Krillin (niño)",
+      "years": "1986–1989"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f42ca2a0caad07611f12d"
+  },
+  "name": "Romi Park",
+  "dob": "1972-01-22T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Hajime no Ippo: Rising",
+      "character": "Tomiko (madre de Takamura)",
+      "years": "2013"
+    },
+    {
+      "series": "Fullmetal Alchemist: Brotherhood",
+      "character": "Edward Elric",
+      "years": "2009–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f42e82a0caad07611f12e"
+  },
+  "name": "Megumi Ogata",
+  "dob": "1965-06-06T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Neon Genesis Evangelion",
+      "character": "Shinji Ikari",
+      "years": "1995–1996"
+    },
+    {
+      "series": "Yu Yu Hakusho",
+      "character": "Kurama",
+      "years": "1992–1995"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f430b2a0caad07611f12f"
+  },
+  "name": "Mariya Ise",
+  "dob": "1988-09-25T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Hunter x Hunter (2011)",
+      "character": "Killua Zoldyck",
+      "years": "2011–2014"
+    },
+    {
+      "series": "Made in Abyss",
+      "character": "Reg",
+      "years": "2017–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f43392a0caad07611f130"
+  },
+  "name": "Setsuo Itō",
+  "dob": "1988-03-18T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Mob Psycho 100",
+      "character": "Shigeo Kageyama (Mob)",
+      "years": "2016–2022"
+    },
+    {
+      "series": "High School Fleet",
+      "character": "Keisuke Kaminaga",
+      "years": "2016"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68404550d8d9184c2763bdc7"
+  },
+  "name": "Bryce Papenbrook",
+  "dob": "1986-02-24T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Attack on Titan",
+      "character": "Eren Jaeger",
+      "years": "2013–2023"
+    },
+    {
+      "series": "Sword Art Online",
+      "character": "Kirito",
+      "years": "2012–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68404597d8d9184c2763bdc8"
+  },
+  "name": "Erika Harlacher",
+  "dob": "1990-08-29T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Violet Evergarden",
+      "character": "Violet Evergarden",
+      "years": "2018"
+    },
+    {
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "character": "Shinobu Kocho",
+      "years": "2019–presente"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684045c0d8d9184c2763bdc9"
+  },
+  "name": "Crispin Freeman",
+  "dob": "1972-02-09T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Hellsing",
+      "character": "Alucard",
+      "years": "2001–2002"
+    },
+    {
+      "series": "Naruto",
+      "character": "Itachi Uchiha",
+      "years": "2005–2009"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684045f2d8d9184c2763bdca"
+  },
+  "name": "Marc Diraison",
+  "dob": "1975-10-07T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Berserk (1997)",
+      "character": "Guts",
+      "years": "1997–1998"
+    },
+    {
+      "series": "Berserk: The Golden Age Arc",
+      "character": "Guts",
+      "years": "2012–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6840460ad8d9184c2763bdcb"
+  },
+  "name": "Aleks Le",
+  "dob": "1988-03-12T00:00:00.000+00:00",
+  "roles": [
+    {
+      "series": "Vinland Saga",
+      "character": "Thorfinn",
+      "years": "2019–2023"
+    },
+    {
+      "series": "Dorohedoro",
+      "character": "Caiman",
+      "years": "2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410000d8d9184c2763bdcc"
+  },
+  "name": "Noah Collins",
+  "dod": "1957-08-27",
+  "roles": [
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410001d8d9184c2763bdcc"
+  },
+  "name": "Matthew Michelle",
+  "dod": "1972-05-20",
+  "roles": [
+    {
+      "series": "The Flash",
+      "character": "Barry Allen",
+      "years": "2014–present"
+    },
+    {
+      "series": "House",
+      "character": "Dr. Gregory House",
+      "years": "2004–2012"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410002d8d9184c2763bdcc"
+  },
+  "name": "Michael Spader",
+  "dod": "1991-05-22",
+  "roles": [
+    {
+      "series": "The Flash",
+      "character": "Barry Allen",
+      "years": "2014–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410003d8d9184c2763bdcc"
+  },
+  "name": "Melissa Amell",
+  "dod": "1962-09-27",
+  "roles": [
+    {
+      "series": "Stranger Things",
+      "character": "Eleven",
+      "years": "2016–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410004d8d9184c2763bdcc"
+  },
+  "name": "Millie Spader",
+  "dod": "1993-05-21",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    },
+    {
+      "series": "24",
+      "character": "Jack Bauer",
+      "years": "2001–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410005d8d9184c2763bdcc"
+  },
+  "name": "Jensen Duchovny",
+  "dod": "1998-11-20",
+  "roles": [
+    {
+      "series": "Better Call Saul",
+      "character": "Jimmy McGill",
+      "years": "2015–2022"
+    },
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410006d8d9184c2763bdcc"
+  },
+  "name": "Charlie Reedus",
+  "dod": "1951-09-06",
+  "roles": [
+    {
+      "series": "Supernatural",
+      "character": "Dean Winchester",
+      "years": "2005–2020"
+    },
+    {
+      "series": "Glee",
+      "character": "Rachel Berry",
+      "years": "2009–2015"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410007d8d9184c2763bdcc"
+  },
+  "name": "Noah Cohan",
+  "dod": "1966-05-06",
+  "roles": [
+    {
+      "series": "Heroes",
+      "character": "Peter Petrelli",
+      "years": "2006–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410008d8d9184c2763bdcc"
+  },
+  "name": "Millie Sutherland",
+  "dod": "1978-06-18",
+  "roles": [
+    {
+      "series": "The X-Files",
+      "character": "Fox Mulder",
+      "years": "1993–2018"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410009d8d9184c2763bdcc"
+  },
+  "name": "Caleb Lincoln",
+  "dod": "1996-12-12",
+  "roles": [
+    {
+      "series": "The X-Files",
+      "character": "Fox Mulder",
+      "years": "1993–2018"
+    },
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410010d8d9184c2763bdcc"
+  },
+  "name": "Jared Ackles",
+  "dod": "1968-04-08",
+  "roles": [
+    {
+      "series": "Heroes",
+      "character": "Peter Petrelli",
+      "years": "2006–2010"
+    },
+    {
+      "series": "Better Call Saul",
+      "character": "Jimmy McGill",
+      "years": "2015–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410011d8d9184c2763bdcc"
+  },
+  "name": "Matthew McLaughlin",
+  "dod": "1994-07-12",
+  "roles": [
+    {
+      "series": "Supernatural",
+      "character": "Dean Winchester",
+      "years": "2005–2020"
+    },
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410012d8d9184c2763bdcc"
+  },
+  "name": "Caity Heaton",
+  "dod": "1960-03-27",
+  "roles": [
+    {
+      "series": "Arrow",
+      "character": "Oliver Queen",
+      "years": "2012–2020"
+    },
+    {
+      "series": "Better Call Saul",
+      "character": "Jimmy McGill",
+      "years": "2015–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410013d8d9184c2763bdcc"
+  },
+  "name": "Millie Sutherland",
+  "dod": "1955-01-21",
+  "roles": [
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410014d8d9184c2763bdcc"
+  },
+  "name": "Katie Padalecki",
+  "dod": "1971-08-09",
+  "roles": [
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    },
+    {
+      "series": "House",
+      "character": "Dr. Gregory House",
+      "years": "2004–2012"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410015d8d9184c2763bdcc"
+  },
+  "name": "Lauren Cohan",
+  "dod": "1991-11-09",
+  "roles": [
+    {
+      "series": "The Flash",
+      "character": "Barry Allen",
+      "years": "2014–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410016d8d9184c2763bdcc"
+  },
+  "name": "Norman Cohan",
+  "dod": "1972-01-14",
+  "roles": [
+    {
+      "series": "Breaking Bad",
+      "character": "Walter White",
+      "years": "2008–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410017d8d9184c2763bdcc"
+  },
+  "name": "Winona Sink",
+  "dod": "1991-06-20",
+  "roles": [
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    },
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410018d8d9184c2763bdcc"
+  },
+  "name": "Misha Bobby Brown",
+  "dod": "1960-05-09",
+  "roles": [
+    {
+      "series": "The X-Files",
+      "character": "Fox Mulder",
+      "years": "1993–2018"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410019d8d9184c2763bdcc"
+  },
+  "name": "James McLaughlin",
+  "dod": "1952-08-11",
+  "roles": [
+    {
+      "series": "Dexter",
+      "character": "Dexter Morgan",
+      "years": "2006–2013"
+    },
+    {
+      "series": "24",
+      "character": "Jack Bauer",
+      "years": "2001–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410020d8d9184c2763bdcc"
+  },
+  "name": "Winona Reedus",
+  "dod": "1993-02-20",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410021d8d9184c2763bdcc"
+  },
+  "name": "Kiefer Benoist",
+  "dod": "1971-06-05",
+  "roles": [
+    {
+      "series": "The X-Files",
+      "character": "Fox Mulder",
+      "years": "1993–2018"
+    },
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410022d8d9184c2763bdcc"
+  },
+  "name": "Kiefer Lincoln",
+  "dod": "1984-01-12",
+  "roles": [
+    {
+      "series": "Glee",
+      "character": "Rachel Berry",
+      "years": "2009–2015"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410023d8d9184c2763bdcc"
+  },
+  "name": "Melissa Spader",
+  "dod": "1999-04-09",
+  "roles": [
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410024d8d9184c2763bdcc"
+  },
+  "name": "Kiefer Sutherland",
+  "dod": "1976-08-21",
+  "roles": [
+    {
+      "series": "Supernatural",
+      "character": "Dean Winchester",
+      "years": "2005–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410025d8d9184c2763bdcc"
+  },
+  "name": "Matthew Collins",
+  "dod": "1995-05-10",
+  "roles": [
+    {
+      "series": "The X-Files",
+      "character": "Fox Mulder",
+      "years": "1993–2018"
+    },
+    {
+      "series": "Dexter",
+      "character": "Dexter Morgan",
+      "years": "2006–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410026d8d9184c2763bdcc"
+  },
+  "name": "Noah Heaton",
+  "dod": "1970-06-27",
+  "roles": [
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410027d8d9184c2763bdcc"
+  },
+  "name": "Noah Ackles",
+  "dod": "1953-10-28",
+  "roles": [
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410028d8d9184c2763bdcc"
+  },
+  "name": "James Ryder",
+  "dod": "1991-10-26",
+  "roles": [
+    {
+      "series": "Heroes",
+      "character": "Peter Petrelli",
+      "years": "2006–2010"
+    },
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410029d8d9184c2763bdcc"
+  },
+  "name": "Jensen Bobby Brown",
+  "dod": "1953-03-18",
+  "roles": [
+    {
+      "series": "Dexter",
+      "character": "Dexter Morgan",
+      "years": "2006–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410030d8d9184c2763bdcc"
+  },
+  "name": "David Sutherland",
+  "dod": "1979-10-03",
+  "roles": [
+    {
+      "series": "Supernatural",
+      "character": "Dean Winchester",
+      "years": "2005–2020"
+    },
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410031d8d9184c2763bdcc"
+  },
+  "name": "David Gustin",
+  "dod": "1965-06-26",
+  "roles": [
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    },
+    {
+      "series": "Arrow",
+      "character": "Oliver Queen",
+      "years": "2012–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410032d8d9184c2763bdcc"
+  },
+  "name": "Charlie Cera",
+  "dod": "1976-07-30",
+  "roles": [
+    {
+      "series": "Heroes",
+      "character": "Peter Petrelli",
+      "years": "2006–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410033d8d9184c2763bdcc"
+  },
+  "name": "Millie Michelle",
+  "dod": "1985-01-18",
+  "roles": [
+    {
+      "series": "House",
+      "character": "Dr. Gregory House",
+      "years": "2004–2012"
+    },
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410034d8d9184c2763bdcc"
+  },
+  "name": "Melissa Duchovny",
+  "dod": "1990-08-10",
+  "roles": [
+    {
+      "series": "House",
+      "character": "Dr. Gregory House",
+      "years": "2004–2012"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410035d8d9184c2763bdcc"
+  },
+  "name": "Caity Sutherland",
+  "dod": "1981-04-15",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    },
+    {
+      "series": "24",
+      "character": "Jack Bauer",
+      "years": "2001–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410036d8d9184c2763bdcc"
+  },
+  "name": "Jensen Gustin",
+  "dod": "1983-10-15",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    },
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410037d8d9184c2763bdcc"
+  },
+  "name": "Michael Spader",
+  "dod": "1986-12-04",
+  "roles": [
+    {
+      "series": "The Flash",
+      "character": "Barry Allen",
+      "years": "2014–present"
+    },
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410038d8d9184c2763bdcc"
+  },
+  "name": "Melissa Lotz",
+  "dod": "1994-06-06",
+  "roles": [
+    {
+      "series": "Better Call Saul",
+      "character": "Jimmy McGill",
+      "years": "2015–2022"
+    },
+    {
+      "series": "Heroes",
+      "character": "Peter Petrelli",
+      "years": "2006–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410039d8d9184c2763bdcc"
+  },
+  "name": "Caleb Gustin",
+  "dod": "1996-05-02",
+  "roles": [
+    {
+      "series": "House",
+      "character": "Dr. Gregory House",
+      "years": "2004–2012"
+    },
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410040d8d9184c2763bdcc"
+  },
+  "name": "Norman Michelle",
+  "dod": "1997-10-13",
+  "roles": [
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410041d8d9184c2763bdcc"
+  },
+  "name": "David Cohan",
+  "dod": "1987-06-19",
+  "roles": [
+    {
+      "series": "Stranger Things",
+      "character": "Eleven",
+      "years": "2016–present"
+    },
+    {
+      "series": "Heroes",
+      "character": "Peter Petrelli",
+      "years": "2006–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410042d8d9184c2763bdcc"
+  },
+  "name": "David Bobby Brown",
+  "dod": "1971-09-11",
+  "roles": [
+    {
+      "series": "Better Call Saul",
+      "character": "Jimmy McGill",
+      "years": "2015–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410043d8d9184c2763bdcc"
+  },
+  "name": "Norman Duchovny",
+  "dod": "1955-02-21",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410044d8d9184c2763bdcc"
+  },
+  "name": "Andrew Ryder",
+  "dod": "1967-04-24",
+  "roles": [
+    {
+      "series": "House",
+      "character": "Dr. Gregory House",
+      "years": "2004–2012"
+    },
+    {
+      "series": "House",
+      "character": "Dr. Gregory House",
+      "years": "2004–2012"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410045d8d9184c2763bdcc"
+  },
+  "name": "Noah Sutherland",
+  "dod": "1965-08-04",
+  "roles": [
+    {
+      "series": "Stranger Things",
+      "character": "Eleven",
+      "years": "2016–present"
+    },
+    {
+      "series": "Arrow",
+      "character": "Oliver Queen",
+      "years": "2012–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410046d8d9184c2763bdcc"
+  },
+  "name": "Jensen Ryder",
+  "dod": "1974-07-08",
+  "roles": [
+    {
+      "series": "Arrow",
+      "character": "Oliver Queen",
+      "years": "2012–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410047d8d9184c2763bdcc"
+  },
+  "name": "James Sink",
+  "dod": "1951-04-11",
+  "roles": [
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    },
+    {
+      "series": "Supernatural",
+      "character": "Dean Winchester",
+      "years": "2005–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410048d8d9184c2763bdcc"
+  },
+  "name": "Misha Sink",
+  "dod": "1976-12-15",
+  "roles": [
+    {
+      "series": "Better Call Saul",
+      "character": "Jimmy McGill",
+      "years": "2015–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410049d8d9184c2763bdcc"
+  },
+  "name": "Michael Sink",
+  "dod": "1997-03-06",
+  "roles": [
+    {
+      "series": "Breaking Bad",
+      "character": "Walter White",
+      "years": "2008–2013"
+    },
+    {
+      "series": "Arrow",
+      "character": "Oliver Queen",
+      "years": "2012–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410050d8d9184c2763bdcc"
+  },
+  "name": "Caity Ackles",
+  "dod": "1999-03-26",
+  "roles": [
+    {
+      "series": "Glee",
+      "character": "Rachel Berry",
+      "years": "2009–2015"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410051d8d9184c2763bdcc"
+  },
+  "name": "Andrew Cera",
+  "dod": "1971-06-17",
+  "roles": [
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410052d8d9184c2763bdcc"
+  },
+  "name": "Caleb Sink",
+  "dod": "1998-07-14",
+  "roles": [
+    {
+      "series": "Glee",
+      "character": "Rachel Berry",
+      "years": "2009–2015"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410053d8d9184c2763bdcc"
+  },
+  "name": "James Amell",
+  "dod": "1969-05-06",
+  "roles": [
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    },
+    {
+      "series": "Arrow",
+      "character": "Oliver Queen",
+      "years": "2012–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410054d8d9184c2763bdcc"
+  },
+  "name": "Millie Collins",
+  "dod": "1959-12-27",
+  "roles": [
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410055d8d9184c2763bdcc"
+  },
+  "name": "Misha Lincoln",
+  "dod": "1972-03-21",
+  "roles": [
+    {
+      "series": "The X-Files",
+      "character": "Fox Mulder",
+      "years": "1993–2018"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410056d8d9184c2763bdcc"
+  },
+  "name": "Melissa Sutherland",
+  "dod": "1977-11-12",
+  "roles": [
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    },
+    {
+      "series": "Better Call Saul",
+      "character": "Jimmy McGill",
+      "years": "2015–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410057d8d9184c2763bdcc"
+  },
+  "name": "Lauren Gustin",
+  "dod": "1959-05-14",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410058d8d9184c2763bdcc"
+  },
+  "name": "Jensen Ackles",
+  "dod": "1991-07-04",
+  "roles": [
+    {
+      "series": "Lost",
+      "character": "Jack Shephard",
+      "years": "2004–2010"
+    },
+    {
+      "series": "Supernatural",
+      "character": "Dean Winchester",
+      "years": "2005–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410059d8d9184c2763bdcc"
+  },
+  "name": "David McGrath",
+  "dod": "1962-10-13",
+  "roles": [
+    {
+      "series": "Stranger Things",
+      "character": "Eleven",
+      "years": "2016–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410060d8d9184c2763bdcc"
+  },
+  "name": "Finn Benoist",
+  "dod": "1955-11-27",
+  "roles": [
+    {
+      "series": "Breaking Bad",
+      "character": "Walter White",
+      "years": "2008–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410061d8d9184c2763bdcc"
+  },
+  "name": "Charlie Gustin",
+  "dod": "1994-01-18",
+  "roles": [
+    {
+      "series": "24",
+      "character": "Jack Bauer",
+      "years": "2001–2010"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410062d8d9184c2763bdcc"
+  },
+  "name": "Millie Collins",
+  "dod": "1978-04-23",
+  "roles": [
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410063d8d9184c2763bdcc"
+  },
+  "name": "Melissa Bobby Brown",
+  "dod": "1994-02-12",
+  "roles": [
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    },
+    {
+      "series": "Dexter",
+      "character": "Dexter Morgan",
+      "years": "2006–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410064d8d9184c2763bdcc"
+  },
+  "name": "Millie Michelle",
+  "dod": "1960-11-19",
+  "roles": [
+    {
+      "series": "Glee",
+      "character": "Rachel Berry",
+      "years": "2009–2015"
+    },
+    {
+      "series": "Supernatural",
+      "character": "Dean Winchester",
+      "years": "2005–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410065d8d9184c2763bdcc"
+  },
+  "name": "Jared Amell",
+  "dod": "1990-12-14",
+  "roles": [
+    {
+      "series": "Dexter",
+      "character": "Dexter Morgan",
+      "years": "2006–2013"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410066d8d9184c2763bdcc"
+  },
+  "name": "Winona Amell",
+  "dod": "1951-07-01",
+  "roles": [
+    {
+      "series": "Dexter",
+      "character": "Dexter Morgan",
+      "years": "2006–2013"
+    },
+    {
+      "series": "The Flash",
+      "character": "Barry Allen",
+      "years": "2014–present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410067d8d9184c2763bdcc"
+  },
+  "name": "Gillian Anderson",
+  "dod": "1958-01-14",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410068d8d9184c2763bdcc"
+  },
+  "name": "Gillian Padalecki",
+  "dod": "1957-07-18",
+  "roles": [
+    {
+      "series": "Glee",
+      "character": "Rachel Berry",
+      "years": "2009–2015"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68410069d8d9184c2763bdcc"
+  },
+  "name": "Norman Padalecki",
+  "dod": "1983-11-13",
+  "roles": [
+    {
+      "series": "The Boys",
+      "character": "Billy Butcher",
+      "years": "2019–present"
+    },
+    {
+      "series": "The Walking Dead",
+      "character": "Rick Grimes",
+      "years": "2010–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68411000d8d9184c2763bdcc"
+  },
+  "name": "Lauren Cohan",
+  "dod": "1982-01-07",
+  "roles": [
+    {
+      "series": "The Walking Dead",
+      "character": "Maggie Greene",
+      "years": "2011–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68411001d8d9184c2763bdcc"
+  },
+  "name": "Jared Padalecki",
+  "dod": "1982-07-19",
+  "roles": [
+    {
+      "series": "Supernatural",
+      "character": "Sam Winchester",
+      "years": "2005–2020"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68411002d8d9184c2763bdcc"
+  },
+  "name": "Caity Lotz",
+  "dod": "1986-12-30",
+  "roles": [
+    {
+      "series": "Legends of Tomorrow",
+      "character": "Sara Lance",
+      "years": "2016–2022"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68411003d8d9184c2763bdcc"
+  },
+  "name": "Giancarlo Esposito",
+  "dod": "1958-04-26",
+  "roles": [
+    {
+      "series": "Breaking Bad",
+      "character": "Gustavo Fring",
+      "years": "2009–2011"
+    },
+    {
+      "series": "The Mandalorian",
+      "character": "Moff Gideon",
+      "years": "2019–2023"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68411004d8d9184c2763bdcc"
+  },
+  "name": "Misha Collins",
+  "dod": "1974-08-20",
+  "roles": [
+    {
+      "series": "Supernatural",
+      "character": "Castiel",
+      "years": "2008–2020"
+    }
+  ]
+}]

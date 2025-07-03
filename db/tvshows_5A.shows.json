@@ -1,0 +1,2176 @@
+[{
+  "_id": {
+    "$oid": "683f22302a0caad07611f114"
+  },
+  "name": "Drake & josh",
+  "seasons": 4,
+  "streaming": [
+    "Paramount+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2008
+      },
+      {
+        "category": "Favorite Television Star",
+        "year": 2009
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f272934032c92118859d7"
+  },
+  "name": "Naruto",
+  "seasons": 9,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Tokyo Anime Award": [
+      {
+        "category": "Best TV Anime",
+        "year": 2006
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f273a34032c92118859d8"
+  },
+  "name": "Fullmetal Alchemist: Brotherhood",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Behind the Voice Actors Awards": [
+      {
+        "category": "Best Male Vocal Performance in an Anime Title in a Supporting Role",
+        "year": 2012
+      }
+    ],
+    "Anime Grand Prix": [
+      {
+        "category": "Best Anime",
+        "year": 2010
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f273a34032c92118859da"
+  },
+  "name": "Demon Slayer",
+  "seasons": 4,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Japan Academy Film Prize": [
+      {
+        "category": "Animation of the Year",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f273a34032c92118859dd"
+  },
+  "name": "Death Note",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Tokyo Anime Award": [
+      {
+        "category": "Best TV Anime",
+        "year": 2007
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f273a34032c92118859e0"
+  },
+  "name": "Mob Psycho 100",
+  "seasons": 3,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Crunchyroll Anime Awards": [
+      {
+        "category": "Best Animation",
+        "year": 2019
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f355334032c92118859e1"
+  },
+  "name": "Clone Wars",
+  "seasons": 7,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Academy of Science Fiction, Fantasy & Horror Films": [
+      {
+        "category": "Best Animated Series on Television",
+        "year": 2021
+      }
+    ],
+    "Annie Awards": [
+      {
+        "category": "Outstanding Achievement for Music in an Animated Television/Media Production",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f36bb34032c92118859e2"
+  },
+  "name": "Obi-wan Kenobi",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Academy of Science Fiction, Fantasy & Horror Films": [
+      {
+        "category": "Best Streaming Limited Event Series",
+        "year": 2022
+      },
+      {
+        "category": "Best Guest Performance in a Streaming Series",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f37c234032c92118859e3"
+  },
+  "name": "Andor",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Academy of Science Fiction, Fantasy & Horror Films": [
+      {
+        "category": "Best Television Home Media Release",
+        "year": 2025
+      },
+      {
+        "category": "Best New Genre Television Series Series",
+        "year": 2024
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f388634032c92118859e4"
+  },
+  "name": "The Office",
+  "seasons": 9,
+  "streaming": [
+    "Peacock",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Comedy Series",
+        "year": 2006
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Performance by an Actor in a Television Series – Comedy or Musical",
+        "year": 2006
+      }
+    ],
+    "Screen Actors Guild Awards": [
+      {
+        "category": "Outstanding Performance by an Ensemble in a Comedy Series",
+        "year": 2008
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f4a6b34032c92118859f6"
+  },
+  "name": "Stranger Things",
+  "seasons": 4,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2017
+      }
+    ],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2018
+      }
+    ],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2017
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f4b5a34032c92118859f7"
+  },
+  "name": "The Mandalorian",
+  "seasons": 3,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2021
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Academy of Science Fiction, Fantasy & Horror Films": [
+      {
+        "category": "Best Streaming Science Fiction Series",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f4c4934032c92118859f8"
+  },
+  "name": "The Last of Us",
+  "seasons": 1,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2023
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2024
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f4e2734032c92118859fa"
+  },
+  "name": "The Witcher",
+  "seasons": 3,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Saturn Awards": [
+      {
+        "category": "Best Fantasy Television Series",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f4f1634032c92118859fb"
+  },
+  "name": "Dungeons & Dragons: Honor Among Thieves",
+  "seasons": 1,
+  "streaming": [
+    "Paramount+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Saturn Awards": [
+      {
+        "category": "Best Fantasy Film",
+        "year": 2024
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f500534032c92118859fc"
+  },
+  "name": "Luther",
+  "seasons": 5,
+  "streaming": [
+    "BBC iPlayer",
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Lead Actor in a Miniseries or Movie",
+        "year": 2021
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Actor – Miniseries or Television Film",
+        "year": 2016
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f50f434032c92118859fd"
+  },
+  "name": "The Queen's Gambit",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Limited or Anthology Series",
+        "year": 2021
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Limited Series or Motion Picture Made for Television",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f51e334032c92118859fe"
+  },
+  "name": "Loki",
+  "seasons": 2,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Saturn Awards": [
+      {
+        "category": "Best Streaming Superhero Series",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f52d234032c92118859ff"
+  },
+  "name": "WandaVision",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Limited or Anthology Series",
+        "year": 2021
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Saturn Awards": [
+      {
+        "category": "Best Streaming Superhero Series",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f53c134032c9211885a00"
+  },
+  "name": "Game of Thrones",
+  "seasons": 8,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2019
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2018
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f53c134032c9211885a01"
+  },
+  "name": "Kusuriya no Hitorigoto",
+  "seasons": 2,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Anime Trending Awards": [
+      {
+        "category": "Best in Character Design",
+        "year": 2025
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684042fa779712b25cf8660b"
+  },
+  "name": "Bocchi the Rock!",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Crunchyroll Anime Awards": [
+      {
+        "category": "Best Slice of Life",
+        "year": 2023
+      }
+    ],
+    "Anime Trending Awards": [
+      {
+        "category": "Anime of The Year",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684045d8779712b25cf8660e"
+  },
+  "name": "Avatar: The Last Airbender",
+  "seasons": 3,
+  "streaming": [
+    "Paramount+",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite Cartoon",
+        "year": 2008
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684045f8779712b25cf8660f"
+  },
+  "name": "My Hero Academia",
+  "seasons": 6,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Crunchyroll Anime Awards": [
+      {
+        "category": "Best Fight Scene",
+        "year": 2020
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404613779712b25cf86610"
+  },
+  "name": "Brooklyn Nine-Nine",
+  "seasons": 8,
+  "streaming": [
+    "Peacock",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Comedy",
+        "year": 2014
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404631779712b25cf86611"
+  },
+  "name": "Chainsaw Man",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Crunchyroll Anime Awards": [
+      {
+        "category": "Best New Anime",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404650779712b25cf86612"
+  },
+  "name": "Cyberpunk: Edgerunners",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Crunchyroll Anime Awards": [
+      {
+        "category": "Anime of the Year",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404664779712b25cf86613"
+  },
+  "name": "Rick and Morty",
+  "seasons": 7,
+  "streaming": [
+    "HBO Max",
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Animated Program",
+        "year": 2020
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404673779712b25cf86614"
+  },
+  "name": "Gravity Falls",
+  "seasons": 2,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Individual Achievement in Animation",
+        "year": 2015
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404698779712b25cf86616"
+  },
+  "name": "Steven Universe",
+  "seasons": 5,
+  "streaming": [
+    "HBO Max",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Short Form Animated Program",
+        "year": 2019
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684046b0779712b25cf86617"
+  },
+  "name": "Arcane",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Animated Program",
+        "year": 2022
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best General Audience Animated TV Show",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "683f3ede2a0caad07611f121"
+  },
+  "name": "One Piece",
+  "seasons": 20,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f3f872a0caad07611f122"
+  },
+  "name": "Hajime no Ippo",
+  "seasons": 3,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f3fdb2a0caad07611f123"
+  },
+  "name": "Neon Genesis Evangelion",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f40392a0caad07611f124"
+  },
+  "name": "Hunter x Hunter",
+  "seasons": 6,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f40e22a0caad07611f125"
+  },
+  "name": "High Score Girl",
+  "seasons": 2,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f41042a0caad07611f126"
+  },
+  "name": "Look Back",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f411c2a0caad07611f127"
+  },
+  "name": "Great Teacher Onizuka",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f41522a0caad07611f129"
+  },
+  "name": "Samurai Champloo",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll",
+    "Funimation"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f41862a0caad07611f12a"
+  },
+  "name": "Erased",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404634d8d9184c2763bdcc"
+  },
+  "name": "Ergo Proxy",
+  "seasons": 1,
+  "streaming": [
+    "Funimation",
+    "Hulu"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404652d8d9184c2763bdcd"
+  },
+  "name": "Violet Evergarden",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404674d8d9184c2763bdce"
+  },
+  "name": "Dorohedoro",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404692d8d9184c2763bdcf"
+  },
+  "name": "Berserk (1997)",
+  "seasons": 1,
+  "streaming": [
+    "YouTube",
+    "Crunchyroll"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684046a5d8d9184c2763bdd0"
+  },
+  "name": "Vinland Saga",
+  "seasons": 2,
+  "streaming": [
+    "Netflix",
+    "Crunchyroll"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684046bed8d9184c2763bdd1"
+  },
+  "name": "Hellsing",
+  "seasons": 1,
+  "streaming": [
+    "Funimation"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684046d0d8d9184c2763bdd2"
+  },
+  "name": "Shingeki no Kyojin (SNK)",
+  "seasons": 4,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684046e1d8d9184c2763bdd3"
+  },
+  "name": "Blood-C",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684046f5d8d9184c2763bdd4"
+  },
+  "name": "Nozaki-kun",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404712d8d9184c2763bdd5"
+  },
+  "name": "Cowboy Bebop",
+  "seasons": 1,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Tokyo Anime Award": [
+      {
+        "category": "Best TV Anime",
+        "year": 1998
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6840472ad8d9184c2763bdd6"
+  },
+  "name": "Black Clover",
+  "seasons": 4,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6840473fd8d9184c2763bdd7"
+  },
+  "name": "The Promised Neverland",
+  "seasons": 2,
+  "streaming": [
+    "Crunchyroll",
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Crunchyroll Anime Awards": [
+      {
+        "category": "Best Horror Anime",
+        "year": 2019
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404754d8d9184c2763bdd8"
+  },
+  "name": "Jujutsu Kaisen",
+  "seasons": 2,
+  "streaming": [
+    "Crunchyroll"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Crunchyroll Anime Awards": [
+      {
+        "category": "Anime of the Year",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6840476ad8d9184c2763bdd9"
+  },
+  "name": "The Boys",
+  "seasons": 4,
+  "streaming": [
+    "Amazon Prime"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2022
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404780d8d9184c2763bdda"
+  },
+  "name": "Invincible",
+  "seasons": 2,
+  "streaming": [
+    "Amazon Prime"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404796d8d9184c2763bddb"
+  },
+  "name": "The Umbrella Academy",
+  "seasons": 3,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2020
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684047acd8d9184c2763bddc"
+  },
+  "name": "Dark",
+  "seasons": 3,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2020
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684047c2d8d9184c2763bddd"
+  },
+  "name": "Money Heist",
+  "seasons": 5,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684047d8d8d9184c2763bdde"
+  },
+  "name": "Peaky Blinders",
+  "seasons": 6,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684047eed8d9184c2763bddf"
+  },
+  "name": "Breaking Bad",
+  "seasons": 5,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2013
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2014
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404804d8d9184c2763bde0"
+  },
+  "name": "Better Call Saul",
+  "seasons": 6,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2022
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6840481ad8d9184c2763bde1"
+  },
+  "name": "The Walking Dead",
+  "seasons": 11,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2015
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404830d8d9184c2763bde2"
+  },
+  "name": "House of the Dragon",
+  "seasons": 1,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404846d8d9184c2763bde3"
+  },
+  "name": "The Sandman",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Saturn Awards": [
+      {
+        "category": "Best Fantasy Television Series",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6840485cd8d9184c2763bde4"
+  },
+  "name": "Wednesday",
+  "seasons": 1,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2023
+      }
+    ],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Comedy",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404872d8d9184c2763bde5"
+  },
+  "name": "The Crown",
+  "seasons": 5,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2021
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404888d8d9184c2763bde6"
+  },
+  "name": "Bridgerton",
+  "seasons": 2,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2022
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6840489ed8d9184c2763bde7"
+  },
+  "name": "Outlander",
+  "seasons": 6,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2016
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684048b4d8d9184c2763bde8"
+  },
+  "name": "The Handmaid's Tale",
+  "seasons": 5,
+  "streaming": [
+    "Hulu"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2017
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Drama",
+        "year": 2018
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684048cad8d9184c2763bde9"
+  },
+  "name": "Westworld",
+  "seasons": 4,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Drama Series",
+        "year": 2018
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684048e0d8d9184c2763bdea"
+  },
+  "name": "The Big Bang Theory",
+  "seasons": 12,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Comedy Series",
+        "year": 2014
+      }
+    ],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2015
+      }
+    ],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Comedy",
+        "year": 2014
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684048f6d8d9184c2763bdeb"
+  },
+  "name": "Friends",
+  "seasons": 10,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Comedy Series",
+        "year": 2002
+      }
+    ],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2003
+      }
+    ],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Comedy",
+        "year": 2002
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6840490cd8d9184c2763bdec"
+  },
+  "name": "How I Met Your Mother",
+  "seasons": 9,
+  "streaming": [
+    "Hulu"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2012
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404922d8d9184c2763bded"
+  },
+  "name": "Modern Family",
+  "seasons": 11,
+  "streaming": [
+    "Hulu"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Comedy Series",
+        "year": 2014
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Comedy",
+        "year": 2014
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404938d8d9184c2763bdee"
+  },
+  "name": "The Simpsons",
+  "seasons": 34,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Animated Program",
+        "year": 2018
+      }
+    ],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite Cartoon",
+        "year": 2019
+      }
+    ],
+    "goldenGlobes": [
+      {
+        "category": "Best Television Series – Comedy",
+        "year": 2003
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6840494ed8d9184c2763bdef"
+  },
+  "name": "Family Guy",
+  "seasons": 21,
+  "streaming": [
+    "Hulu"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite Cartoon",
+        "year": 2018
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404964d8d9184c2763bdf0"
+  },
+  "name": "South Park",
+  "seasons": 26,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Animated Program",
+        "year": 2019
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6840497ad8d9184c2763bdf1"
+  },
+  "name": "American Dad!",
+  "seasons": 18,
+  "streaming": [
+    "Hulu"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404990d8d9184c2763bdf2"
+  },
+  "name": "Bob's Burgers",
+  "seasons": 13,
+  "streaming": [
+    "Hulu"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Animated Program",
+        "year": 2020
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684049a6d8d9184c2763bdf3"
+  },
+  "name": "Archer",
+  "seasons": 13,
+  "streaming": [
+    "Hulu"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2015
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684049bcd8d9184c2763bdf4"
+  },
+  "name": "Bojack Horseman",
+  "seasons": 6,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best General Audience Animated TV Show",
+        "year": 2019
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684049d2d8d9184c2763bdf5"
+  },
+  "name": "Big Mouth",
+  "seasons": 6,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2020
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684049e8d8d9184c2763bdf6"
+  },
+  "name": "Love, Death & Robots",
+  "seasons": 3,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Short Form Animated Program",
+        "year": 2021
+      }
+    ],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684049fed8d9184c2763bdf7"
+  },
+  "name": "Castlevania",
+  "seasons": 4,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2021
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404a14d8d9184c2763bdf8"
+  },
+  "name": "Dota: Dragon's Blood",
+  "seasons": 3,
+  "streaming": [
+    "Netflix"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404a2ad8d9184c2763bdf9"
+  },
+  "name": "The Legend of Vox Machina",
+  "seasons": 2,
+  "streaming": [
+    "Amazon Prime"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404a40d8d9184c2763bdfa"
+  },
+  "name": "Harley Quinn",
+  "seasons": 3,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404a56d8d9184c2763bdfb"
+  },
+  "name": "Young Justice",
+  "seasons": 4,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404a6cd8d9184c2763bdfc"
+  },
+  "name": "Teen Titans Go!",
+  "seasons": 7,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite Cartoon",
+        "year": 2019
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404a82d8d9184c2763bdfd"
+  },
+  "name": "Adventure Time",
+  "seasons": 10,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [
+      {
+        "category": "Outstanding Short Form Animated Program",
+        "year": 2018
+      }
+    ],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite Cartoon",
+        "year": 2017
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404a98d8d9184c2763bdfe"
+  },
+  "name": "Regular Show",
+  "seasons": 8,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite Cartoon",
+        "year": 2016
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404aaed8d9184c2763bdff"
+  },
+  "name": "The Amazing World of Gumball",
+  "seasons": 6,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite Cartoon",
+        "year": 2018
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404ac4d8d9184c2763be00"
+  },
+  "name": "Rick and Morty: The Anime",
+  "seasons": 1,
+  "streaming": [
+    "HBO Max"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404adad8d9184c2763be01"
+  },
+  "name": "Star Wars: Visions",
+  "seasons": 2,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Annie Awards": [
+      {
+        "category": "Best Animated TV Show",
+        "year": 2022
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404af0d8d9184c2763be02"
+  },
+  "name": "What If...?",
+  "seasons": 2,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": true,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404b06d8d9184c2763be03"
+  },
+  "name": "Moon Knight",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": [],
+    "Saturn Awards": [
+      {
+        "category": "Best Streaming Superhero Series",
+        "year": 2023
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68404b1cd8d9184c2763be04"
+  },
+  "name": "She-Hulk: Attorney at Law",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404b32d8d9184c2763be05"
+  },
+  "name": "Ms. Marvel",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [
+      {
+        "category": "Favorite TV Show",
+        "year": 2023
+      }
+    ],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404b48d8d9184c2763be06"
+  },
+  "name": "Hawkeye",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68404b5ed8d9184c2763be07"
+  },
+  "name": "The Falcon and the Winter Soldier",
+  "seasons": 1,
+  "streaming": [
+    "Disney+"
+  ],
+  "running": false,
+  "awards": {
+    "emmys": [],
+    "KidsChoiceAwards": [],
+    "goldenGlobes": []
+  }
+}]
