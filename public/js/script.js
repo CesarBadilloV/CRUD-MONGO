@@ -126,7 +126,7 @@ function showDetailsModal(show) {
 
   modal.querySelector('.modal-btn-edit').addEventListener('click', () => {
     sessionStorage.setItem('showToEdit', JSON.stringify(show));
-    window.location.href = 'editar-serie.html';
+    window.location.href = 'html/editar-serie.html';
   });
 
   modal.querySelector('.modal-btn-delete').addEventListener('click', () => {
