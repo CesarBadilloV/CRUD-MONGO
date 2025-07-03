@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Añadir Nueva Serie</title>
+    <link rel="stylesheet" href="../css/create.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Añadir Nueva Serie</h1>
+        <form id="formSerie" class="form">
+            <div class="form-group">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="seasons">Temporadas:</label>
+                <input type="number" id="seasons" name="seasons" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="streaming">Plataformas (separadas por comas):</label>
+                <input type="text" id="streaming" name="streaming" placeholder="Netflix, HBO Max, Disney+" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="running">¿En emisión?</label>
+                <select id="running" name="running" required>
+                    <option value="true">Sí</option>
+                    <option value="false">No</option>
+                </select>
+            </div>
+            
+            <button type="submit" class="submit-btn">Guardar Serie</button>
+        </form>
+    </div>
+
+    <script src="../js/create.js"></script>
+</body>
+</html>

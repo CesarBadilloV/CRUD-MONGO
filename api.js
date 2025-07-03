@@ -34,10 +34,17 @@ app.get("/api/shows", async (req, res) => {
   res.json(shows);
 });
 
-app.post("/api/shows", async (req, res) => {
-  const newShow = new Show(req.body);
-  const saved = await newShow.save();
-  res.json(saved);
+app.post('/api/shows', async (req, res) => {
+  console.log("Body recibido:", req.body);
+  try {
+    const newShow = new Show(req.body);
+    const savedShow = await newShow.save();
+    console.log("Show guardado:", savedShow);
+    res.status(201).json(savedShow);
+  } catch (error) {
+    console.error("Error en DB:", error);
+    res.status(500).json({ error: error.message });
+  }
 });
 
 app.put("/api/shows/:id", async (req, res) => {

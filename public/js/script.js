@@ -185,5 +185,16 @@ function showNotification(message, type = 'info') {
   }, 3000);
 }
 
+// Redirigir a create.html al hacer clic en el botón
+document.addEventListener('DOMContentLoaded', () => {
+  const btnAddShow = document.getElementById('btn-add-show');
+  if (btnAddShow) {
+    btnAddShow.addEventListener('click', () => {
+      window.location.href = 'html/create.html'; // Ajusta la ruta según tu estructura
+    });
+  }
+  loadShows(); // Cargar las series
+});
+
 // Iniciar la aplicación
 document.addEventListener('DOMContentLoaded', loadShows);
