@@ -86,3 +86,10 @@ select {
 a.cancel-btn:hover {
   background-color: #c0392b;
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem; /* Esto añade espacio entre los botones */
+    margin: 1rem 0; /* Margen opcional arriba y abajo */
+}

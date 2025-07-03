@@ -13,9 +13,11 @@ const showSchema = new mongoose.Schema({
   awards: {
     emmys: [awardSchema],
     KidsChoiceAwards: [awardSchema],
-    goldenGlobes: [awardSchema],
-    // puedes agregar otros si quieres ser más completo
+    goldenGlobes: [awardSchema]
+    // Agrega más premios si es necesario
   }
+}, { 
+  versionKey: false, 
 });
 
 module.exports = mongoose.model("Show", showSchema);

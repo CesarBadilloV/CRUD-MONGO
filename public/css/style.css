@@ -20,6 +20,11 @@ li {
   margin: 10px 0;
 }
 
+h1 {
+  margin: 0;            /* Elimina márgenes por defecto del h1 */
+  line-height: 1;       /* Controla la altura de línea si es necesario */
+}
+
 /* Contenedor principal */
 #list {
   display: grid;
@@ -285,8 +290,19 @@ li {
   cursor: pointer;
   font-size: 16px;
   transition: background-color 0.3s;
+  max-height: fit-content;
+  bottom: 100px ;
+  margin: 0;   
 }
 
 .add-button:hover {
   background-color: #45a049;
 }
+
+/* Estilos para el contenedor del encabezado */
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
