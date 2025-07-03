@@ -27,5 +27,12 @@ document.getElementById("formSerie").addEventListener("submit", async (e) => {
   } catch (error) {
     console.error("Error:", error);
     alert("Error al crear la serie: " + error.message);
+
+  // Botón Cancelar
+  document.getElementById("btn-cancelar").addEventListener("click", () => {
+    if(confirm("¿Seguro que quieres cancelar? Los datos no guardados se perderán.")) {
+      window.location.href = "http://localhost:3000"; 
+    }
+  });
   }
 });

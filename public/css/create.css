@@ -38,8 +38,16 @@ label {
     font-weight: bold;
 }
 
-input, select {
-    width: 100%;
+input {
+    width: 95%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+select {
+    width: 500px;
     padding: 0.75rem;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -55,8 +63,26 @@ input, select {
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s;
+    width: 150px;
 }
 
 .submit-btn:hover {
     background-color: #2980b9;
+}
+
+.cancel-btn {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  background-color: #e74c3c;
+  color: white;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  width: 150px;
+}
+
+a.cancel-btn:hover {
+  background-color: #c0392b;
 }
