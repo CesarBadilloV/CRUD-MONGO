@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (!showData) {
     console.error('No se encontraron datos de serie en sessionStorage');
     alert('Error: No se encontraron datos de la serie para editar');
-    window.location.href = '../index.html';
+    window.location.href = 'index.html';
     return;
   }
 
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
   } catch (error) {
     console.error('Error al cargar datos de edición:', error);
     alert('Error al cargar los datos de la serie: ' + error.message);
-    window.location.href = '../index.html';
+    window.location.href = 'index.html';
   }
 });
 
@@ -91,7 +91,7 @@ function setupEventHandlers(originalShow) {
   // Botón cancelar
   cancelBtn.addEventListener('click', function() {
     if (confirm('¿Seguro que quieres cancelar los cambios?')) {
-      window.location.href = '../index.html';
+    window.location.href = 'index.html';
     }
   });
 }
